@@ -1,0 +1,42 @@
+body
+{
+background: url(https://wallpapercave.com/wp/wp7486102.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+#headings
+{
+color:black ;
+background:white;
+width:700px;
+text-align: center;
+margin: auto;
+}
+#content
+{
+    display:flex;
+    background:rgba(220, 42, 42, 0);
+    height: 500px;
+    width: 1140px;
+    margin:auto;
+    margin-top: 60px;
+    justify-content:space-around;
+}
+img
+{
+height:125px;
+width:150px;
+border: 3px solid white;
+margin-top:20px;
+margin-left:10px;
+}
+#title
+{
+    color:black;
+    display:flex;
+    width: 1140px;
+    background-color:white ;
+    margin:auto;
+    justify-content: space-around;
+}
